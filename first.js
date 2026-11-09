@@ -6,3 +6,5 @@ console.log(login);
 
 const footer = "Footer Added in our website";
 console.log(footer);
+
+console.log("latest update")
